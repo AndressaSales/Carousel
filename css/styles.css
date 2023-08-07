@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Dancing+Script&family=Fasthand&family=Pacifico&family=Rubik+Wet+Paint&display=swap');
+*{
+    font-family: 'Borel', cursive;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 2rem;
+}
+.bg-primary-color{
+    background-color: white;
+}
+.bg-secondary-color{
+    background-color: #ece8ae;
+}
+.bg-dark-color{
+    background-color: #050505;
+}
+img{
+    height: 650px;
+}
